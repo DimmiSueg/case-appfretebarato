@@ -76,6 +76,6 @@ flowchart LR
 
 ---
 
-**Tem uma ideia de app que é o próprio negócio?** → [atossofts.com.br](https://atossofts.com.br) · [LinkedIn](https://www.linkedin.com/in/dimmisueg/)
+**Tem uma ideia de app que é o próprio negócio?** → [WhatsApp](https://wa.me/5587996032135?text=Ol%C3%A1%20Dimmi%2C%20vi%20seu%20GitHub%20e%20quero%20conversar%20sobre%20um%20projeto.) · [atossofts.com.br](https://atossofts.com.br) · [LinkedIn](https://www.linkedin.com/in/dimmisueg/)
 
 <sub>🇺🇸 Production Android app that resells corporate Brazilian Postal Service (Correios) shipping rates to anyone: instant quotes, PIX payments, prepaid wallet, printable labels with electronic content declaration, tracking with barcode scanning. Flutter + Rust (Axum) + PostgreSQL + Redis + SvelteKit admin. Client code is private.</sub>
